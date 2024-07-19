@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Shahmaz0/temperature-control-app/static/css/main.dc288505.css",
+    "main.js": "/Shahmaz0/temperature-control-app/static/js/main.0877a115.js",
+    "static/media/logo.svg": "/Shahmaz0/temperature-control-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Shahmaz0/temperature-control-app/index.html",
+    "main.dc288505.css.map": "/Shahmaz0/temperature-control-app/static/css/main.dc288505.css.map",
+    "main.0877a115.js.map": "/Shahmaz0/temperature-control-app/static/js/main.0877a115.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc288505.css",
+    "static/js/main.0877a115.js"
+  ]
+}
